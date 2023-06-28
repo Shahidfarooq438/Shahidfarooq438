@@ -45,12 +45,15 @@ Hey Visitor
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
-:fire: My Stats:
-# My GitHub Stats
+:fire: My Github Stats:
 <div align="center">
   
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahidfarooq438&show_icons=true&theme=dark)](https://github.com/Shahidfarooq438)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahidfarooq438&layout=compact&theme=dark)](https://github.com/Shahidfaroq438)
-
+</div>
+:fire: Most used Languages:
+<div align="center">
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahidfarooq438&layout=compact&theme=dark)](https://github.com/Shahidfaroq438)
+  
 </div>
