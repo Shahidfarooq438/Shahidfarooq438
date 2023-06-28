@@ -46,6 +46,11 @@ Hey Visitor
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 :fire: My Stats:
-<div>
+# My GitHub Stats
+<div align="center">
   
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahidfarooq438&show_icons=true&theme=dark)](https://github.com/Shahidfarooq438)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahidfarooq438&layout=compact&theme=dark)](https://github.com/Shahidfaroq438)
+
 </div>
